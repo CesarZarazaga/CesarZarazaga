@@ -1,4 +1,4 @@
-## Hi there 👋
+Actividad optativa 1 Modelos Estadísticos
 
 <!--
 **CesarZarazaga/CesarZarazaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
